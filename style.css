@@ -15,10 +15,6 @@ body {
     color: white;
 }
 
-.top-section {
-    /* background-color: #1F2937; */
-}
-
 .header {
     display: flex;
     justify-content: center;
@@ -106,10 +102,6 @@ ul {
 .wolf {
     width: 200px;
     border: 2px solid white;
-}
-
-.info {
-    /* background: white; */
 }
 
 .content {
